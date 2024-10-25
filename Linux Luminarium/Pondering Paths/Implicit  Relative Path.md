@@ -1,6 +1,4 @@
-Here’s a brief write-up based on your solution:
 
----
 
 ### Challenge Overview
 
